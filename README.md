@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="bd201704-d28f-4c41-9c27-40d1e3b30cc3.png" width="220">
+</p>
+
+<h1 align="center">GORN</h1>
+
+<p align="center">
+  <b>Build. Protect. Grow.</b>
+</p>
+
 ## Hi there 👋
 # GORN
 
