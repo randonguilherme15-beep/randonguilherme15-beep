@@ -1,16 +1,31 @@
 ## Hi there 👋
+# GORN
 
-<!--
-**randonguilherme15-beep/randonguilherme15-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Build. Protect. Grow.
 
-Here are some ideas to get you started:
+Hi, I'm Guilherme 👋  
+I'm building my path towards Software Engineering and Cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently learning
+- C++
+- Software Engineering fundamentals
+- Git & GitHub
+- Cybersecurity fundamentals
+
+## Current project
+### Security Terminal
+A modular C++ terminal application built to practise and consolidate:
+- authentication
+- loops and conditional logic
+- switch statements
+- multi-file architecture
+- header files
+- shared programme state
+- statistics and credit management
+
+## Current focus
+Building strong programming foundations before moving into more advanced C++ concepts.
+
+---
+
+**GORN — Build. Protect. Grow.**
