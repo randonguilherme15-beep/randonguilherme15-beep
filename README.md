@@ -9,9 +9,6 @@
 </p>
 
 ## Hi there 👋
-# GORN
-
-### Build. Protect. Grow.
 
 Hi, I'm Guilherme 👋  
 I'm building my path towards Software Engineering and Cybersecurity.
