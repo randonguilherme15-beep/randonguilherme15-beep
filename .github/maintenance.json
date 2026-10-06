@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "baseline_date": "2026-10-06",
+  "repository": "randonguilherme15-beep",
+  "original_head": "4d1aed71d7dd37a78e6c5e07a9252b2892ef9d9c",
+  "source_sha256": {},
+  "managed_file_sha256": {
+    "AGENTS.md": "86541de723596bad3420cc30415c04630800422121e7a5814cfb684a2570926b",
+    "README.md": "41c2f28b0c1e43a840814c1f4620c9a458b09d6b19f96255c4732ef07bffbcd9",
+    "docs/maintenance-record.md": "f317114c2d218426ceba38a1a799ff2d6ca47c9b53189cae5e08c32b94f521ef"
+  },
+  "policy": "Read this record before future work. Update changed content incrementally; do not regenerate over user edits. Preserve repository visibility and original source paths."
+}
